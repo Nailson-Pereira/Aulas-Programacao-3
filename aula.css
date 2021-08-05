@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    width: 50px;
+    border: 1px solid black;
+}
+
+li{
+    color: green;
+    padding: 0 20px 20px 20px;
+    border: 5px;
+}
+
+.reprovado{
+    color: blue;
+}
